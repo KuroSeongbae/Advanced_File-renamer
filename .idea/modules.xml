@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../GUI/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectKakegurui_py/.idea/ProjectKakegurui_py.iml" filepath="$PROJECT_DIR$/../ProjectKakegurui_py/.idea/ProjectKakegurui_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RenameFile.iml" filepath="$PROJECT_DIR$/.idea/RenameFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RenameFileGUI/.idea/RenameFileGUI.iml" filepath="$PROJECT_DIR$/../RenameFileGUI/.idea/RenameFileGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Websites/Django/tutorial/.idea/tutorial.iml" filepath="$PROJECT_DIR$/../../Websites/Django/tutorial/.idea/tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Websites/XxXx-Site/.idea/XxXx-Site.iml" filepath="$PROJECT_DIR$/../../Websites/XxXx-Site/.idea/XxXx-Site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Websites/color-test/.idea/color-test.iml" filepath="$PROJECT_DIR$/../../Websites/color-test/.idea/color-test.iml" />
+    </modules>
+  </component>
+</project>
