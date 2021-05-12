@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+*/vcs.xml
+*/RenameFile.iml
